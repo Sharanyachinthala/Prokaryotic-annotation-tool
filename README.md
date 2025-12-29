@@ -13,6 +13,3 @@ python prokaryotic_annotation_tool.py --input sample.fasta --out output
 - prokaryotic_annotation_tool.py
 - sample.fasta
 - output.gff
-
-## Author
-Sharanya Chinthala
